@@ -1,4 +1,4 @@
-def main():
+def first():
   print("Keep it logically awesome")
   #f = open("quotes.txt")
   #quotes = f.readlines()
@@ -7,4 +7,4 @@ def main():
   # #print(quotes)
 
 if __name__== "__main__":
-  main()
+  first()
